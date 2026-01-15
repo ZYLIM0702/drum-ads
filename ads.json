@@ -1,0 +1,10 @@
+{
+  "ads": {
+    "online": {
+      "enabled": true
+    },
+    "offline": {
+      "enabled": true
+    }
+  }
+}
