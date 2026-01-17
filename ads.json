@@ -4,7 +4,7 @@
       "enabled": false
     },
     "offline": {
-      "enabled": true
+      "enabled": false
     }
   }
 }
