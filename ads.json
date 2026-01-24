@@ -1,7 +1,7 @@
 {
   "ads": {
     "online": {
-      "enabled": true
+      "enabled": false
     },
     "offline": {
       "enabled": true
